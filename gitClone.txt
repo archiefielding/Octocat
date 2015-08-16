@@ -1,1 +1,1 @@
-Explain what git clone does in your own words
+Pulls a repository from another location using its address
